@@ -17,7 +17,7 @@ function getSumNumber(num) {
 console.log(getSumNumber(266219)); // получим сумму равную 26
 
 // Полученный результат возвести в степень 3, используя только 1 оператор (Math.pow не подходит)
-let sumStep = getSumNumber(26)**3;
+let sumStep = 26 ** 3;
 console.log(sumStep);
 
 // Вывести на экран первые 2 цифры полученного числа
